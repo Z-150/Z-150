@@ -1,16 +1,16 @@
 <div align="center">
   <img src="giphy.gif" width="150" alt="Frieren Dancing" />
   
-  # <✨ Hello, World! I'm Zaky />
+  # <✨ Hello, I'm Zaky />
   
-  **Junior Software Developer 🪄 | PPLG Student | Anime Enthusiast**
+  **Junior Software Developer 🪄 | PPLG 2 Student**
   
   I am a vocational high school student from Indonesia 🇮🇩, deeply interested in crafting software, exploring web technologies, and configuring Linux systems. Currently turning coffee and logic into functional spells (code). 🧝‍♂️
 </div>
 
 ---
 
-### 🧙‍♂️ About Me
+### 🧙‍♂️ About ME
 
 * 🔭 **Currently working on:** A WhatsApp AI Personal Bot and a full-stack Item Lending Website.
 * 🌱 **Currently learning:** Integrating payment gateways (like Midtrans) into Laravel applications and mastering Ubuntu configurations.
@@ -19,7 +19,7 @@
 
 ---
 
-### ⚡ My Skill Set & Grimoire
+### ⚡ My Skill
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />

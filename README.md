@@ -39,7 +39,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=transparent&hide_border=true&title_color=1572B6&icon_color=1572B6&text_color=333333" alt="Zaky's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Z-150&show_icons=true&theme=transparent&hide_border=true&title_color=1572B6&icon_color=1572B6&text_color=333333" alt="Zaky's GitHub Stats" />
 </div>
 
 ---

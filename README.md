@@ -1,52 +1,64 @@
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=b794f4&height=200&section=header&text=Hello,%20I'm%20Zaky&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<!-- Profile Image/GIF -->
+<p align="center">
+  <img src="giphy.gif" width="180" alt="Frieren Dancing" />
+</p>
+
+<h2 align="center">🧝‍♀️ Junior Software Developer | PPLG 2 Student</h2>
+
+<p align="center">
+  <i>"Turning coffee and logic into functional spells (code)."</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Indonesia-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Learning-success?style=flat-square" />
+</p>
+
+---
+
+### 🧙‍♂️ Tentang Saya
+
+Halo! Saya adalah seorang siswa SMK dari Indonesia 🇮🇩 yang sangat tertarik dalam pembuatan perangkat lunak, eksplorasi teknologi web, dan konfigurasi sistem Linux. Saya percaya bahwa setiap baris kode adalah sebuah sihir yang dapat membantu banyak orang.
+
+- 🔭 **Sedang mengerjakan:** [WhatsApp AI Personal Bot](https://github.com/Z-150) & Full-stack Item Lending Website.
+- 🌱 **Sedang mempelajari:** Integrasi payment gateway (Midtrans) di Laravel & optimasi konfigurasi Ubuntu.
+- 💬 **Tanya saya tentang:** PHP, Laravel, Node.js, atau cara bertahan di bootcamp coding kelas 10!
+- 🕹️ **Fun Fact:** Saat tidak sedang coding, saya biasanya menonton anime atau bereksperimen dengan logika game di Scratch.
+
+---
+
+### 🪄 Kekuatan Sihir (Skills)
+
 <div align="center">
-  <img src="giphy.gif" width="150" alt="Frieren Dancing" />
-  
-  # <✨ Hello, I'm Zaky />
-  
-  **Junior Software Developer 🪄 | PPLG 2 Student**
-  
-  I am a vocational high school student from Indonesia 🇮🇩, deeply interested in crafting software, exploring web technologies, and configuring Linux systems. Currently turning coffee and logic into functional spells (code). 🧝‍♂️
+
+| **Frontend** | **Backend** | **Tools & OS** |
+| :--- | :--- | :--- |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |
+
 </div>
 
 ---
 
-### 🧙‍♂️ About ME
+### 📊 Statistik GitHub
 
-* 🔭 **Currently working on:** A WhatsApp AI Personal Bot and a full-stack Item Lending Website.
-* 🌱 **Currently learning:** Integrating payment gateways (like Midtrans) into Laravel applications and mastering Ubuntu configurations.
-* 🕹️ **Fun Fact:** When I'm not coding or tinkering with Linux distros, you can find me watching anime or experimenting with game logic in Scratch.
-* 💬 **Ask me about:** PHP, Laravel, Node.js, or how to survive a 10th-grade coding bootcamp!
-
----
-
-### ⚡ My Skill
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Z-150&show_icons=true&theme=b794f4&hide_border=true&title_color=b794f4&icon_color=ecc94b&text_color=ffffff&bg_color=0d1117" alt="Zaky's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z-150&layout=compact&theme=b794f4&hide_border=true&title_color=b794f4&icon_color=ecc94b&text_color=ffffff&bg_color=0d1117" alt="Most Used Languages" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📱 Hubungi Saya
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Z-150&show_icons=true&theme=transparent&hide_border=true&title_color=1572B6&icon_color=1572B6&text_color=333333" alt="Zaky's GitHub Stats" />
-</div>
-
----
-
-### 📱 Connect with me
-
-<div align="center">
+<p align="center">
   <a href="mailto:ahmadzaky0415@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -56,4 +68,8 @@
   <a href="https://instagram.com/d8xr4">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</div>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MaySora/MaySora/main/assets/img/frieren-walking.gif" width="100%" />
+</p>

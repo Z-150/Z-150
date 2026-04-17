@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=b794f4&height=200&section=header&text=Hello,%20I'm%20Zaky&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="201.png" width="100%" alt="Frieren Banner" />
 </p>
 
 <!-- Profile Image/GIF -->

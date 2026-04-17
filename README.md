@@ -1,14 +1,14 @@
 <!-- Header -->
-<p align="center">
+<!-- <p align="center">
   <img src="201.png" width="100%"/>
-</p>
+</p> -->
 
 <!-- Profile Image/GIF -->
 <p align="center">
   <img src="giphy.gif" width="180" alt="Frieren Dancing" />
 </p>
 
-<h2 align="center">🧝‍♀️ Junior Software Developer | PPLG 2 Student</h2>
+<h2 align="center"> Junior Software Developer | Student Of SMKN 1 Cirebon</h2>
 
 <p align="center">
   <i>"Turning coffee and logic into functional spells (code)."</i>

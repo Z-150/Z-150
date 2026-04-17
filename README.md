@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="201.png" />
+  <img src="201.png" width="100%"/>
 </p>
 
 <!-- Profile Image/GIF -->

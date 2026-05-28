@@ -11,7 +11,7 @@
 <h2 align="center"> Junior Software Developer | Student Of SMKN 1 Cirebon</h2>
 
 <p align="center">
-  <i>"Turning coffee and logic into functional spells (code)."</i>
+  <i>"Nobody love u like i love u."</i>
 </p>
 
 <p align="center">
@@ -26,10 +26,7 @@
 Hello! I am a vocational high school student from Indonesia 🇮🇩 who is very interested in software development, web technology exploration, and Linux system configuration.
 
 - 🔭 **Do:** Rest api 4 downloader ready on: <a href="https://github.com/z-150/rest4api">click here</a>.
-- 🌱 **Sedang mempelajari:** Integrasi payment gateway (Midtrans) di Laravel & optimasi konfigurasi Ubuntu.
-- 💬 **Tanya saya tentang:** PHP, Laravel, Node.js, atau cara bertahan di bootcamp coding kelas 10!
-- 🕹️ **Fun Fact:** Saat tidak sedang coding, saya biasanya menonton anime atau bereksperimen dengan logika game di Scratch.
-
+- 🌱 **learning:** Script bot in WhatsApp and Telegram & optimasi configuration Ubuntu.
 ---
 
 ### 🪄 Kekuatan Sihir (Skills)

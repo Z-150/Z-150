@@ -21,11 +21,11 @@
 
 ---
 
-### 🧙‍♂️ Tentang Saya
+### About Me
 
-Halo! Saya adalah seorang siswa SMK dari Indonesia 🇮🇩 yang sangat tertarik dalam pembuatan perangkat lunak, eksplorasi teknologi web, dan konfigurasi sistem Linux. Saya percaya bahwa setiap baris kode adalah sebuah sihir yang dapat membantu banyak orang.
+Hello! I am a vocational high school student from Indonesia 🇮🇩 who is very interested in software development, web technology exploration, and Linux system configuration.
 
-- 🔭 **Sedang mengerjakan:** [WhatsApp AI Personal Bot](https://github.com/Z-150) & Full-stack Item Lending Website.
+- 🔭 **Do:** Rest api 4 downloader ready on: <a href="https://github.com/z-150/rest4api";>click here</a>.
 - 🌱 **Sedang mempelajari:** Integrasi payment gateway (Midtrans) di Laravel & optimasi konfigurasi Ubuntu.
 - 💬 **Tanya saya tentang:** PHP, Laravel, Node.js, atau cara bertahan di bootcamp coding kelas 10!
 - 🕹️ **Fun Fact:** Saat tidak sedang coding, saya biasanya menonton anime atau bereksperimen dengan logika game di Scratch.

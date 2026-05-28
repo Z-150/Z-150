@@ -46,7 +46,7 @@ Hello! I am a vocational high school student from Indonesia 🇮🇩 who is very
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Z-150&show_icons=true&theme=b794f4&hide_border=true&title_color=b794f4&icon_color=ecc94b&text_color=ffffff&bg_color=0d1117" alt="Zaky's GitHub Stats" />
+  <img src="https://ghchart.rshah.org/z-150" alt="Zaky's GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z-150&layout=compact&theme=b794f4&hide_border=true&title_color=b794f4&icon_color=ecc94b&text_color=ffffff&bg_color=0d1117" alt="Most Used Languages" />
 </p>

@@ -26,7 +26,7 @@
 Hello! I am a vocational high school student from Indonesia 🇮🇩 who is very interested in software development, web technology exploration, and Linux system configuration.
 
 - 🔭 **Do:** Rest api 4 downloader ready on: <button><a href="https://github.com/z-150/rest4api">click here</a></button>.
-- 🌱 **learning:** Script bot in WhatsApp and Telegram & optimasi configuration Ubuntu.
+- 🌱 **learning:** Script bot in WhatsApp and Telegram & configuration Ubuntu.
 ---
 
 ### 🪄 MySkills
@@ -67,6 +67,3 @@ Hello! I am a vocational high school student from Indonesia 🇮🇩 who is very
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MaySora/MaySora/main/assets/img/frieren-walking.gif" width="100%" />
-</p>

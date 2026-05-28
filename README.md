@@ -29,7 +29,7 @@ Hello! I am a vocational high school student from Indonesia 🇮🇩 who is very
 - 🌱 **learning:** Script bot in WhatsApp and Telegram & optimasi configuration Ubuntu.
 ---
 
-### 🪄 Kekuatan Sihir (Skills)
+### 🪄 MySkills
 
 <div align="center">
 
@@ -53,7 +53,7 @@ Hello! I am a vocational high school student from Indonesia 🇮🇩 who is very
 
 ---
 
-### 📱 Hubungi Saya
+### Contact Me:
 
 <p align="center">
   <a href="mailto:ahmadzaky0415@gmail.com">

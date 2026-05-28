@@ -25,7 +25,7 @@
 
 Hello! I am a vocational high school student from Indonesia 🇮🇩 who is very interested in software development, web technology exploration, and Linux system configuration.
 
-- 🔭 **Do:** Rest api 4 downloader ready on: <a href="https://github.com/z-150/rest4api">click here</a>.
+- 🔭 **Do:** Rest api 4 downloader ready on: <button><a href="https://github.com/z-150/rest4api">click here</a></button>.
 - 🌱 **learning:** Script bot in WhatsApp and Telegram & optimasi configuration Ubuntu.
 ---
 
